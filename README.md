@@ -1,2 +1,2 @@
 # My-First-Repository
-loic lee's repository 
+## Writing my first Markdown file
