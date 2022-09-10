@@ -23,7 +23,12 @@ This is 20-Aug-2022.
 
 [Github link] (https://github.com/explore)
 
- | Number | Rider        | Time  |
- | 1      | Bullet Bob   | 56:07 |
- | 2      | Clumsy Colin | DNF   |
- | 3      | Swift Susan  | 55:13 |
+# Making Tables 
+
+E.g. table on food consumption at a restaurant:
+
+ | Food   | No. of People   | Time Taken /s
+ | Fries  | 66              | 16:07
+ | Rice   | 79              | 23:40 
+ | Pizza  | 22              | 35:13
+
