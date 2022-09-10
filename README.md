@@ -26,21 +26,9 @@ This is 20-Aug-2022.
 
 E.g. table on food consumption at a restaurant:
 
- | Food   | No. of People   | Time Taken /s
-
- | Fries  | 66              | 16:07
-
- | Rice   | 79              | 23:40 
-
- | Pizza  | 22              | 35:13
-
-# Race results
-
-Here are the results from this week's race:
-
- | Number | Rider        | Time
- | 1      | Bullet Bob   | 56:07
- | 2      | Clumsy Colin | DNF 
- | 3      | Swift Susan  | 55:13
-
-Congratulations to all who took part and I look forward to seeing you all at the next one!
+|Food |Quantity|
+|-----|--------|
+|Apple|3       |
+|Pear |12      |
+|Grape|24      |
+|Nut  |12      |
