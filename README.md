@@ -22,3 +22,8 @@ This is 20-Aug-2022.
 > blockquote 
 
 [Github link] (https://github.com/explore)
+
+ | Number | Rider        | Time  |
+ | 1      | Bullet Bob   | 56:07 |
+ | 2      | Clumsy Colin | DNF   |
+ | 3      | Swift Susan  | 55:13 |
