@@ -12,7 +12,11 @@ This is 20-Aug-2022.
 
 ***Important Text***
 
+###### Putting Images
+
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![This is an image](https://imgs.search.brave.com/8MRgwwPKTK8gVCFTDrNPQBLjKja2rWMHp7K5ubvy7vs/rs:fit:1200:1200:1/g:ce/aHR0cDovL2Nkbi5z/aG9wY2x1ZXMuY29t/L2ltYWdlcy9kZXRh/aWxlZC82MzMvcnVi/aWtzXzEzNzExMTUx/NTguanBn) 
 
 > Those are styling texts 
 
