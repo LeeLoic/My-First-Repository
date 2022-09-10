@@ -1,6 +1,8 @@
 # My First Repository
+This is 20-Aug-2022. 
 ## Writing my first Markdown file
 ###### What I have learnt
+
 **This is a bold text**
 
 *Italicised text*
@@ -16,3 +18,7 @@
 1. First list item
    - First nested list item
     - Second nested list item
+
+> blockquote 
+
+[Github link] (https://github.com/explore)
